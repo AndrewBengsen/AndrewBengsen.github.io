@@ -1,4 +1,5 @@
-## Wildlife Ecologist  
+## Andrew Bengsen  
+### Wildlife Ecologist  
 
 My work is all about helping people to protect natural resources, agricultural production and human health through the effective management of overabundant mammal populations.  
 
