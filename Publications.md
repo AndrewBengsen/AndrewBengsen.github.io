@@ -1,0 +1,92 @@
+Peer-reviewed publications
+--------------------------
+
+-   Bengsen, A. J., Forsyth, D. M., Harris, S., Latham, A. D. M.,
+    McLeod, S. R. and Pople, A. (2020) A systematic review of
+    ground-based shooting to control overabundant mammal populations.
+    *Wildlife Research*.
+-   Thompson, G. G., Thompson, S. A. and Bengsen, A. J. (2019) The value
+    of camera traps in monitoring a feral cat and fox reduction program.
+    *Wildlife Research* 46(7), 599-609.
+-   Taggart, P. L., Fancourt, B. A., Bengsen, A. J., Peacock, D. E.,
+    Hodgens, P., Read, J. L., McAllister, M. M. and Caraguel, C. G. B.
+    (2019) Evidence of significantly higher island feral cat abundance
+    compared to the adjacent mainland. *Wildlife Research* 46, 378-385.
+-   McLeod, L. J., Hine, D. W., Bengsen, A. J. and Driver, A. B. (2017)
+    Assessing the impact of different persuasive messages on the
+    intentions and behaviour of cat owners: A randomised control trial.
+    *Preventive Veterinary Medicine* 146, 136-142.
+-   McLeod, L. J., Driver, A. B., Bengsen, A. J. and Hine, D. W. (2017)
+    Refining online communication strategies for domestic cat
+    management. *Anthrozoös* 30(4), 635-649.
+-   Fleming, P. J. S., Nolan, H., Jackson, S. M., Ballard, G.-A.,
+    Bengsen, A., Brown, W. Y., Meek, P. D., Mifsud, G., Pal, S. K. and
+    Sparkes, J. (2017) Roles for the Canidae in food webs reviewed:
+    Where do they fit? *Food Webs* 12, 14-34.
+-   Bengsen, A. J. and Sparkes, J. (2016) Can recreational hunting
+    contribute to pest mammal control on public land in Australia?
+    *Mammal Review* 46(4), 297-310.
+-   Read, J. L., Bengsen, A. J., Meek, P. D. and Moseby, K. E. (2015)
+    How to snap your cat: optimum lures and their placement for
+    attracting mammalian predators in arid Australia. *Wildlife
+    Research* 42, 1-12.
+-   McLeod, L. J., Hine, D. W. and Bengsen, A. J. (2015) Born to roam:
+    barriers and drivers to cat containment. *Preventive Veterinary
+    Medicine* 122, 339-344.
+-   Doherty, T. S., Bengsen, A. J. and Davis, R. A. (2015) A critical
+    review of habitat use by feral cats and key directions for future
+    research and management. *Wildlife Research* 41(5), 435-446.
+-   Cox, T. E., Murray, P. J., Bengsen, A. J., Hall, G. P. and Li, X.
+    (2015) Do fecal odors from native and non-native predators cause a
+    habitat shift among macropods? *Wildlife Society Bulletin* 39(1),
+    159-164.
+-   Bengsen, A. J., Algar, D., Ballard, G., Buckmaster, T., Comer, S.,
+    Fleming, P. J. S., Friend, J. A., Johnston, M., McGregor, H.,
+    Moseby, K. and Zewe, F. (2015) Feral cat home-range size varies
+    predictably with landscape productivity and population density.
+    *Journal of Zoology* 298, 112-120.
+-   Bengsen, A. J., Robinson, R., Chaffey, C., Gavenlock, J., Hornsby,
+    V., Hurst, R. and Fosdick, M. (2014) Camera trap surveys to evaluate
+    pest animal control operations. *Ecological Management &
+    Restoration* 15(1), 97-100.
+-   Bengsen, A. J., Gentle, M. N., Mitchell, J. L., Pearson, H. E. and
+    Saunders, G. R. (2014) Impacts and management of wild pigs Sus
+    scrofa in Australia. *Mammal Review* 44(2), 135-147.
+-   Bengsen, A. J. (2014) Effects of coordinated poison baiting programs
+    on survival and abundance in two red fox populations. *Wildlife
+    Research* 41, 194-202.
+-   Bengsen, A. J., Butler, J. A. and Masters, P. (2012) Applying home
+    range and landscape use data to design effective feral cat control
+    programs. *Wildlife Research* 39(3), 258-265.
+-   Bengsen, A. J., Butler, J. A. and Masters, P. (2011) Estimating and
+    indexing feral cat population abundances using camera traps.
+    *Wildlife Research* 38(8), 732-739.
+-   Bengsen, A. J., Leung, L. K.-P., Lapidge, S. J. and Gordon, I.
+    J. (2011) Testing target-specific bait delivery for controlling
+    feral pigs in a tropical rainforest. *Ecological Management &
+    Restoration* 12(3), 226-229.
+-   Bengsen, A. J., Leung, L. K.-P., Lapidge, S. J. and Gordon, I.
+    J. (2011) Using a general index approach to analyze camera-trap
+    abundance indices. *Journal of Wildlife Management* 75(5),
+    1222-1227.
+-   Bengsen, A. J., Leung, L. K.-P., Lapidge, S. J. and Gordon, I.
+    J. (2011) Target-specificity of feral pig baits under different
+    conditions in a tropical rainforest. *Wildlife Research* 38,
+    370-379.
+-   Bengsen, A. J., Leung, L. K.-P., Lapidge, S. and Gordon, I.
+    J. (2010) Artificial illumination reduces bait-take by small
+    rainforest mammals. *Applied Animal Behaviour Science* 127, 66-72.
+-   Bengsen, A. J., Leung, L. K.-P., Lapidge, S. J. and Gordon, I.
+    J. (2008) The development of target-specific vertebrate pest
+    management tools for complex faunal communities. *Ecological
+    Management and Restoration* 9(3), 209-216.
+-   Bengsen, A. J. and Pearson, R. G. (2006) Examination of factors
+    potentially affecting riparian bird assemblages in a tropical
+    Queensland savanna. *Ecological Management and Restoration* 7(2),
+    140-143.
+
+Book chapters
+-------------
+
+Popular press articles
+----------------------
