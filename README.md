@@ -1,9 +1,9 @@
 ## Andrew Bengsen  
-### Wildlife Ecologist  
+### Research Ecologist
 
 ![](Collage1.png)
 
-My work is all about helping people to protect natural resources, agricultural production and human health through the effective management of overabundant mammal populations.  
+My work is all about helping people to protect natural resources, agricultural production and human health by effectively managing overabundant mammal populations.  
 
 Poor or ineffective management wastes opportunity, time, money, energy, animal lives, and social licence. Often, small changes to established practice can make big differences to outcomes. This is what gets me out of bed in the morning (often *waaaay* too early).   
 
