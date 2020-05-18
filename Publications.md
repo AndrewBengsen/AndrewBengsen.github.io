@@ -76,7 +76,7 @@ Peer-reviewed publications
 -   **Bengsen, A. J.**, Butler, J. A. and Masters, P. (2012) Applying
     home range and landscape use data to design effective feral cat
     control programs. *Wildlife Research* 39(3), 258-265.
-    [PDF](https://www.researchgate.net/profile/Andrew_Bengsen/publication/230563548_Applying_home-range_and_landscape-use_data_to_design_effective_feral-cat_control_programs/links/0912f50187c04dc4b2000000.pdf%5D%20or%20%5Bhttps://doi.org/10.1071/WR11097)
+    [PDF](https://www.researchgate.net/profile/Andrew_Bengsen/publication/230563548_Applying_home-range_and_landscape-use_data_to_design_effective_feral-cat_control_programs/links/0912f50187c04dc4b2000000/Applying-home-range-and-landscape-use-data-to-design-effective-feral-cat-control-programs.pdf)
     or
     <a href="https://doi.org/10.1071/WR11097" class="uri">https://doi.org/10.1071/WR11097</a>
 -   **Bengsen, A. J.**, Butler, J. A. and Masters, P. (2011) Estimating
@@ -87,8 +87,6 @@ Peer-reviewed publications
     J. (2011) Testing target-specific bait delivery for controlling
     feral pigs in a tropical rainforest. *Ecological Management &
     Restoration* 12(3), 226-229.
-    [PDF](https://www.researchgate.net/profile/Andrew_Bengsen/publication/291971602_1156_Bengsen_etal_11_Target_specific_pig_baiting_in_Daintree/links/56a7e86308ae0fd8b3fe42e5.pdf)
-    or
     <a href="https://doi.org/10.1111/j.1442-8903.2011.00614.x" class="uri">https://doi.org/10.1111/j.1442-8903.2011.00614.x</a>
 -   **Bengsen, A. J.**, Leung, L. K.-P., Lapidge, S. J. and Gordon, I.
     J. (2011) Using a general index approach to analyze camera-trap
@@ -146,7 +144,7 @@ Book chapters
     (Eds P. D. Meek, A. G. Ballard, P. B. Banks, A. W. Claridge, P.
     J. S. Fleming, J. G. Sanderson and D. E. Swann). (CSIRO Publishing:
     Melbourne.)
-    [PDF](https://www.researchgate.net/profile/Andrew_Bengsen/publication/283506026_Analysis_of_camera_trap_surveys_to_detect_effects_of_population_management/links/563bf38408aec6f17dd4f1f3.pdf)
+    [PDF](https://www.researchgate.net/profile/Andrew_Bengsen/publication/283506026_Analysis_of_camera_trap_surveys_to_detect_effects_of_population_management/links/563bf38408aec6f17dd4f1f3/Analysis-of-camera-trap-surveys-to-detect-effects-of-population-management.pdf)
 -   Fleming, P. J. S., Allen, B. L., Allen, L. R., Ballard, G. A.,
     **Bengsen, A. J.**, Gentle, M. N., McLeod, L. J., Meek, P. D. and
     Saunders, G. R. (2014) Management of wild canids in Australia:
@@ -161,7 +159,7 @@ Popular press articles
 
 -   **Bengsen, A. J.** and Saunders, G. R. (2016) The European red fox
     at home in Australia. *Diesel N Dust* 21, 38-47.
-    [PDF](https://www.researchgate.net/publication/306375054_The_European_Red_Fox_at_home_in_Australia)
+    [PDF](https://www.researchgate.net/profile/Andrew_Bengsen/publication/306375054_The_European_Red_Fox_at_home_in_Australia/links/57bcd58c08aedf5f75eaa8bb/The-European-Red-Fox-at-home-in-Australia.pdf)
 -   **Bengsen, A. J.** (2014) The rabbits of Christmas past: a present
     that backfired for Australia. *The Conversation*
-    (<a href="https://theconversation.com/the-rabbits-of-christmas-past-a-present-that-backfired-for-australia-35544" class="uri">https://theconversation.com/the-rabbits-of-christmas-past-a-present-that-backfired-for-australia-35544</a>)\*
+    [webpage](https://theconversation.com/the-rabbits-of-christmas-past-a-present-that-backfired-for-australia-35544)
