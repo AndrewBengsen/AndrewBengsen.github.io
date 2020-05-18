@@ -137,8 +137,9 @@ Book chapters
 -   **Bengsen, A. J.**, Sparkes, J. and McLeod, S. R. (2016) Can
     recreational hunting control pests on public lands? ‘*[Conservation
     Through Sustainable Use of
-    Wildlife](https://ssaa.org.au/publications/advances-in-conservation-through-sustainable-use-of-wildlife)*’,
-    Brisbane. (Eds P. Murray and G. Baxter) University of Queensland
+    Wildlife](https://ssaa.org.au/publications/advances-in-conservation-through-sustainable-use-of-wildlife)*’
+    (Eds P. Murray and G. Baxter) pp.168-172. (University of Queensland:
+    Brisbane.)
 -   **Bengsen, A. J.** (2014) Analysis of camera trap surveys to detect
     effects of population management. In ‘*[Camera Trapping in Wildlife
     Research and Management.](https://www.publish.csiro.au/book/7150/)*’
