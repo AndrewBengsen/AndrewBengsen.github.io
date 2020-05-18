@@ -42,5 +42,7 @@ output:
   - Fleming, P. J. S., Allen, B. L., Allen, L. R., Ballard, G. A., **Bengsen, A. J.**, Gentle, M. N., McLeod, L. J., Meek, P. D. and Saunders, G. R. (2014) Management of wild canids in Australia: free-ranging dogs and red foxes. In '*[Carnivores of Australia: Past, Present and Future.](https://www.publish.csiro.au/book/6708/)*' (Eds A. S. Glen and C. R. Dickman) pp. 105-149. (CSIRO Publishing: Collingwood.) [PDF](https://www.researchgate.net/profile/Lee_Allen4/publication/272745692_Management_of_wild_canids_in_Australia_free-ranging_dogs_and_red_foxes/links/5570c84508ae2f213c2238eb.pdf)
 
 ## Popular press articles  
-
+  
+  - **Bengsen, A. J.** and Saunders, G. R. (2016) The European red fox at home in Australia. *Diesel N Dust* 21, 38-47. [PDF](https://www.researchgate.net/publication/306375054_The_European_Red_Fox_at_home_in_Australia)
+  - **Bengsen, A. J.** (2014) The rabbits of Christmas past: a present that backfired for Australia. *[The Conversation](https://theconversation.com/the-rabbits-of-christmas-past-a-present-that-backfired-for-australia-35544)*
 
