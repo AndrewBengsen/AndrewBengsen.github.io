@@ -163,5 +163,5 @@ Popular press articles
     at home in Australia. *Diesel N Dust* 21, 38-47.
     [PDF](https://www.researchgate.net/publication/306375054_The_European_Red_Fox_at_home_in_Australia)
 -   **Bengsen, A. J.** (2014) The rabbits of Christmas past: a present
-    that backfired for Australia. *[The
-    Conversation](https://theconversation.com/the-rabbits-of-christmas-past-a-present-that-backfired-for-australia-35544)*
+    that backfired for Australia. *The Conversation*
+    (<a href="https://theconversation.com/the-rabbits-of-christmas-past-a-present-that-backfired-for-australia-35544" class="uri">https://theconversation.com/the-rabbits-of-christmas-past-a-present-that-backfired-for-australia-35544</a>)\*
