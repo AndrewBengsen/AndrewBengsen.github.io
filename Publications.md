@@ -152,7 +152,7 @@ Book chapters
     Past, Present and
     Future.](https://www.publish.csiro.au/book/6708/)*’ (Eds A. S. Glen
     and C. R. Dickman) pp. 105-149. (CSIRO Publishing: Collingwood.)
-    [PDF](https://www.researchgate.net/profile/Lee_Allen4/publication/272745692_Management_of_wild_canids_in_Australia_free-ranging_dogs_and_red_foxes/links/5570c84508ae2f213c2238eb.pdf)
+    [PDF](https://www.researchgate.net/profile/Lee_Allen4/publication/272745692_Management_of_wild_canids_in_Australia_free-ranging_dogs_and_red_foxes/links/5570c84508ae2f213c2238eb/Management-of-wild-canids-in-Australia-free-ranging-dogs-and-red-foxes.pdf)
 
 Popular press articles
 ----------------------
