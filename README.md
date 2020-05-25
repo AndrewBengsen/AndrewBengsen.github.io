@@ -1,9 +1,9 @@
 ## Andrew Bengsen  
-### Research Ecologist
+### Wildlife Ecologist
 
-![](Collage1.png)
+![](Media/Collage1.png)
 
-My work is all about helping people to protect natural resources, agricultural production and human health by effectively managing mammal populations.  
+My research is all about helping people to protect natural resources, agricultural production and human health by effectively managing mammal populations.  
 
 Poor or ineffective management wastes opportunity, time, money, energy, animal lives, and social licence. Often, small changes to established practice can make big differences to outcomes. This is what gets me out of bed in the morning (often *waaaay* too early).   
 
@@ -23,6 +23,7 @@ I love challenging assumptions and I'm always happy to have my prior beliefs upd
 I've been an active member of the [Australasian Wildlife Management Society](https://www.awms.org.au/) for over ten years. As the Society's [Position Statements](https://www.awms.org.au/Position-Statements) Coordinator, I make sure that we can provide timely and useful information on science-based wildlife management. I'm always keen to ensure that we're able to promote strong positions on relevant matters. Please [get in touch](mailto:andrew.bengsen@gmail.com) if you have an idea for something that we may be missing.    
 
 
-[MY PUBLICATIONS](Publications.md)
+[MY PUBLICATIONS](Publications.md)  
+[RECENT PRESENTATIONS](Presentations.md)
 
 
