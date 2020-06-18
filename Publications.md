@@ -26,7 +26,7 @@ Peer-reviewed publications
     management. *Anthrozoös* 30(4), 635-649.
     <a href="https://doi.org/10.1080/08927936.2017.1370237" class="uri">https://doi.org/10.1080/08927936.2017.1370237</a>
 -   Fleming, P. J. S., Nolan, H., Jackson, S. M., Ballard, G.-A.,
-    Bengsen, A., Brown, W. Y., Meek, P. D., Mifsud, G., Pal, S. K. and
+    **Bengsen, A. J.**, Brown, W. Y., Meek, P. D., Mifsud, G., Pal, S. K. and
     Sparkes, J. (2017) Roles for the Canidae in food webs reviewed:
     Where do they fit? *Food Webs* 12, 14-34.
     <a href="https://doi.org/10.1016/j.fooweb.2017.03.001" class="uri">https://doi.org/10.1016/j.fooweb.2017.03.001</a>
