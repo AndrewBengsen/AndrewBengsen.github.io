@@ -98,8 +98,8 @@ Peer-reviewed publications
 -   **Bengsen, A. J.**, Leung, L. K.-P., Lapidge, S. J. and Gordon, I.
     J. (2011) Target-specificity of feral pig baits under different
     conditions in a tropical rainforest. *Wildlife Research* 38,
-    370-379.
-    <a href="https://doi.org/10.1071/WR11023" class="uri">https://doi.org/10.1071/WR11023</a>
+    370-379. [PDF](https://www.researchgate.net/publication/230563552_Target-specificity_of_feral_pig_baits_under_different_conditions_in_a_tropical_rainforest) or 
+    <a href="https://doi.org/10.1071/WR11023" class="uri">https://doi.org/10.1071/WR11023</a> 
 -   **Bengsen, A. J.**, Leung, L. K.-P., Lapidge, S. and Gordon, I.
     J. (2010) Artificial illumination reduces bait-take by small
     rainforest mammals. *Applied Animal Behaviour Science* 127, 66-72.
