@@ -14,7 +14,7 @@ Peer-reviewed publications
     Hodgens, P., Read, J. L., McAllister, M. M. and Caraguel, C. G. B.
     (2019) Evidence of significantly higher island feral cat abundance
     compared to the adjacent mainland. *Wildlife Research* 46, 378-385.
-    <a href="https://doi.org/10.1071/WR18118" class="uri">https://doi.org/10.1071/WR18118</a>
+    <a href="https://doi.org/10.1071/WR18118" class="uri">https://doi.org/10.1071/WR18118</a> or [PDF](https://digital.library.adelaide.edu.au/dspace/bitstream/2440/119825/2/Taggart2019_PhD.pdf#page=154)
 -   McLeod, L. J., Hine, D. W., **Bengsen, A. J.** and Driver, A.
     B. (2017) Assessing the impact of different persuasive messages on
     the intentions and behaviour of cat owners: A randomised control
