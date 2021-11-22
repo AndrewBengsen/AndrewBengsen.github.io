@@ -1,6 +1,7 @@
 Peer-reviewed publications
 --------------------------
 
+-   Hampton, J. O.
 -   **Bengsen, A. J.**, Forsyth, D. M., Harris, S., Latham, A. D. M.,
     McLeod, S. R. and Pople, A. (2020) A systematic review of
     ground-based shooting to control overabundant mammal populations.

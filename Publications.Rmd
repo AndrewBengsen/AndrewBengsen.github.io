@@ -9,6 +9,9 @@ output:
 
 ## Peer-reviewed publications  
   
+  - **Bengsen, A. J.**, Hampton, J. O., Comte, S., Freney, S. and Forsyth, D. M. (2021). Evaluation of helicopter net-gunning to capture wild fallow deer (Dama dama). Wildlife Research.
+  - Hampton, J. O., Eccles, G., Hunt, R., Parker, S., Hart, Q., **Bengsen, A. J.**, Perry, A. L., Miller, C., Joslyn, S. J., Stokke, S. and Arnemo, J. M. (2021). A comparison of fragmenting lead-based and lead-free bullets for aerial shooting of wild pigs. PLoS ONE 16, e0247785.
+  - Hampton, J. O., Specht, A. J., Pay, J. M., Pokras, M. A. and **Bengsen, A. J.** (2021). Portable X-ray fluorescence for bone lead measurements of Australian eagles. Science of The Total Environment, 147998.
   - **Bengsen, A. J.**, Forsyth, D. M., Harris, S., Latham, A. D. M., McLeod, S. R. and Pople, A. (2020) A systematic review of ground-based shooting to control overabundant mammal populations. *Wildlife Research*. https://doi.org/10.1071/WR19129
   - Thompson, G. G., Thompson, S. A. and **Bengsen, A. J.** (2019) The value of camera traps in monitoring a feral cat and fox reduction program. *Wildlife Research* 46(7), 599-609. https://doi.org/10.1071/WR18087
   - Taggart, P. L., Fancourt, B. A., **Bengsen, A. J.**, Peacock, D. E., Hodgens, P., Read, J. L., McAllister, M. M. and Caraguel, C. G. B. (2019) Evidence of significantly higher island feral cat abundance compared to the adjacent mainland. *Wildlife Research* 46, 378-385. https://doi.org/10.1071/WR18118
