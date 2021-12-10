@@ -2,8 +2,8 @@
 
 -   **Bengsen, A. J.**, Forsyth, D. M., Pople, A., Brennan, M., Amos,
     M., Leeson, M., Cox, T., Gray, R., Orgill, O., Hampton, J. O.,
-    Crittle, T., Haebich, K. (2021) [Functional Response and the Effort
-    : Outcomes Relationship for Aerial Shooting of
+    Crittle, T., Haebich, K. (2021) [Functional Response and the
+    Effort-Outcomes Relationship for Aerial Shooting of
     Deer](Media/BENGSEN_AWMS_2021_Aerial_shoot_deer.pdf). Australasian
     Wildlife Management Society Conference, online.
 
