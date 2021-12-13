@@ -1,5 +1,10 @@
 ## Recent presentations
 
+-   **Bengsen, A. J.** 2021 [Practicalities of camera trapping to detect
+    and count feral
+    pigs](Media/BENGSEN_NFPAP_practicalities-of-camera-traps-for-pigs_2021-12.pdf).
+    National Feral Pig Action Plan Stakeholder Forum.
+
 -   **Bengsen, A. J.**, Forsyth, D. M., Pople, A., Brennan, M., Amos,
     M., Leeson, M., Cox, T., Gray, R., Orgill, O., Hampton, J. O.,
     Crittle, T., Haebich, K. (2021) [Functional Response and the
