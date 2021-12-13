@@ -9,7 +9,7 @@ output:
 
 ## Peer-reviewed publications  
   
-  - **Bengsen, A. J.**, Hampton, J. O., Comte, S., Freney, S. and Forsyth, D. M. (2021). Evaluation of helicopter net-gunning to capture wild fallow deer (*Dama dama*). *Wildlife Research*. https://doi.org/10.1071/WR21007
+  - **Bengsen, A. J.**, Hampton, J. O., Comte, S., Freney, S. and Forsyth, D. M. (2021). Evaluation of helicopter net-gunning to capture wild fallow deer (*Dama dama*). *Wildlife Research*, 48:722-729. https://doi.org/10.1071/WR21007
   - Hampton, J. O., Eccles, G., Hunt, R., Parker, S., Hart, Q., **Bengsen, A. J.**, Perry, A. L., Miller, C., Joslyn, S. J., Stokke, S. and Arnemo, J. M. (2021). A comparison of fragmenting lead-based and lead-free bullets for aerial shooting of wild pigs. *PLoS ONE* 16, e0247785. https://doi.org/10.1371/journal.pone.0247785
   - Hampton, J. O., Specht, A. J., Pay, J. M., Pokras, M. A. and **Bengsen, A. J.** (2021). Portable X-ray fluorescence for bone lead measurements of Australian eagles. *Science of The Total Environment*, 147998. https://doi.org/10.1016/j.scitotenv.2021.147998
   - **Bengsen, A. J.**, Forsyth, D. M., Harris, S., Latham, A. D. M., McLeod, S. R. and Pople, A. (2020) A systematic review of ground-based shooting to control overabundant mammal populations. *Wildlife Research*. https://doi.org/10.1071/WR19129

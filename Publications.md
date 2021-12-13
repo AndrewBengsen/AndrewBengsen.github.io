@@ -2,8 +2,8 @@
 
 -   **Bengsen, A. J.**, Hampton, J. O., Comte, S., Freney, S. and
     Forsyth, D. M. (2021). Evaluation of helicopter net-gunning to
-    capture wild fallow deer (*Dama dama*). *Wildlife Research*.
-    <https://doi.org/10.1071/WR21007>
+    capture wild fallow deer (*Dama dama*). *Wildlife Research*,
+    48:722-729. <https://doi.org/10.1071/WR21007>
 -   Hampton, J. O., Eccles, G., Hunt, R., Parker, S., Hart, Q.,
     **Bengsen, A. J.**, Perry, A. L., Miller, C., Joslyn, S. J.,
     Stokke, S. and Arnemo, J. M. (2021). A comparison of fragmenting
