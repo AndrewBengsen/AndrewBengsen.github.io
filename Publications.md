@@ -4,6 +4,10 @@
     Forsyth, D. M. (2021). Evaluation of helicopter net-gunning to
     capture wild fallow deer (*Dama dama*). *Wildlife Research*,
     48:722-729. <https://doi.org/10.1071/WR21007>
+-   Hampton, J. O., **Bengsen, A. J.**, Pople, A., Brennan, M.,
+    Leeson, M. and Forsyth, D. M. (2021). Animal welfare outcomes of
+    helicopter-based shooting of deer in Australia. *Wildlife Research*,
+    online early. <https://doi.org/10.1071/WR21069>
 -   Hampton, J. O., Eccles, G., Hunt, R., Parker, S., Hart, Q.,
     **Bengsen, A. J.**, Perry, A. L., Miller, C., Joslyn, S. J.,
     Stokke, S. and Arnemo, J. M. (2021). A comparison of fragmenting

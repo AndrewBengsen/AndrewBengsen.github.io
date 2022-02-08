@@ -22,7 +22,7 @@ questions like:
 -   how does recreational hunting contribute to the management of wild
     deer, feral pigs and other problem species?
 -   how valid are the assumptions about deer spatial ecology that
-    underpin current deer management practice?
+    underpin current deer and feral pig management?
 -   how can we develop and improve methods to estimate the states and
     dynamics of mammal populations?
 -   how much effort do we need to invest to get useful outcomes from
