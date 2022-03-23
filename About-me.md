@@ -34,3 +34,7 @@ conditions that promote great outcomes.
 
 I love challenging assumptions and I’m always happy to have my prior
 beliefs updated.
+
+[MY PUBLICATIONS](https://andrewbengsen.github.io/Publications.html)
+[RECENT
+PRESENTATIONS](https://andrewbengsen.github.io/Presentations.html)
