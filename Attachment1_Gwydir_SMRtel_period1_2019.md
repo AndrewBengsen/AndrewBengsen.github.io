@@ -21,7 +21,7 @@ that contains processing and modelling functions.
 
 Then load the detection and spatial data. The three detection data
 objects were all created by extracting exif metadata from tagged images
-using the file [3-DataWrangling_Marked_gwydir.R]().
+using the file `3-DataWrangling_Marked_gwydir.R`.
 
 Spatial coordinates for the state space and detections are centred on
 the centre of the state space to try and reduce autocorrelation.  
@@ -66,24 +66,14 @@ Yk <- abind::abind(Yk, Yk_empty, along=1)
 
 # Evenness of detections
 sums2 <- rowSums(Yu[which(rowSums(Yu, na.rm=T) > 0), ], na.rm=T)
-(sums2cv <- sd(sums2)/mean(sums2))
-```
+sums2cv <- sd(sums2)/mean(sums2)
 
-    ## [1] 2.867857
-
-``` r
 # Number of individual captures
 r_yk <- sum(Yk, na.rm=T)
 
 # How many individual captures by pig
 n_indivs <- rowSums(Yk)[which(rowSums(Yk)>0)]
-n_indivs
-```
 
-    ## C_42215 
-    ##       5
-
-``` r
 # How many individual captures by camera
 n_indiv_cams <- rowSums(colSums(Yk))[which(rowSums(colSums(Yk))>0)]
 ```
@@ -164,10 +154,10 @@ includes:
 -   setting a data augmentation parameter `M` to provide a ceiling for
     the maximum number of unidentifiable pigs
 -   setting the precision of the candidate distrutions for detection
-    parameters (delta\[1\] = *σ*, delta\[2\] = *l**a**m**b**d**a*\~0)
-    and activity range centres for collared and uncollared animals
-    (delta\[3\], delta\[4\])
--   setting prior distributions for *σ* and *λ*\~0
+    parameters (delta\[1\] = *σ*, delta\[2\] = $lambda$0) and activity
+    range centres for collared and uncollared animals (delta\[3\],
+    delta\[4\])
+-   setting prior distributions for *σ* and $$0
 -   defining the limits of the state space (`xlim`, `ylim`)
 -   setting the number of MCMC draws `ni`, burn-in draws to discard
     `nb`, and parallel chains `nc` to use
@@ -278,7 +268,7 @@ that the traces for psi are not bumping up against 1.0, which would
 indicate that the data augmentation parameter `M` might be too small. We
 also check the effective sample size to make sure that we have
 sufficient independent data to be confident of point and credible
-interval estimates and the acceptance rates for *σ* and *λ*\~0 to see
+interval estimates and the acceptance rates for *σ* and $$0 to see
 whether they are in the favourable window. Finally, we check the
 Gelman-Rubin statistic (potential scale reduction factor) *R̂* for the
 key parameters.
