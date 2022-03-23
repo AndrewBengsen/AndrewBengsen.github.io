@@ -1,5 +1,10 @@
 ## Peer-reviewed publications
 
+-   **Bengsen, A. J.**, Forsyth, D. M., Amos, M., Ramsey, D. S. L.,
+    Brennan, M., Pople, A. R., Comte, S. and Crittle, T. (2022).
+    Estimating deer density and abundance using spatial mark-resight
+    models with camera trap data. *Journal of Mammalogy*.
+    <https://doi.org/10.1093/jmammal/gyac016>
 -   **Bengsen, A. J.**, Hampton, J. O., Comte, S., Freney, S. and
     Forsyth, D. M. (2021). Evaluation of helicopter net-gunning to
     capture wild fallow deer (*Dama dama*). *Wildlife Research*,
