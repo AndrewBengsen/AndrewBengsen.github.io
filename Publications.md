@@ -1,5 +1,9 @@
 ## Peer-reviewed publications
 
+-   **Bengsen, A. J.**, Forsyth, D. M., Pople, A., Brennan, M., Amos,
+    M., Leeson, M., Cox, T. E., Gray, B., Orgill, O., Hampton, J. O.,
+    Crittle, T. and Haebich, K. (online early). Effectiveness and costs
+    of helicopter-based shooting of deer. *Wildlife Research*.
 -   **Bengsen, A. J.**, Forsyth, D. M., Amos, M., Ramsey, D. S. L.,
     Brennan, M., Pople, A. R., Comte, S. and Crittle, T. (2022).
     Estimating deer density and abundance using spatial mark-resight
