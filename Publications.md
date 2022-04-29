@@ -5,6 +5,11 @@
     Estimating deer density and abundance using spatial mark-resight
     models with camera trap data. *Journal of Mammalogy*.
     <https://doi.org/10.1093/jmammal/gyac016>
+-   Forsyth, D. M., Comte, S., Davis, N. E., **Bengsen, A. J.**,
+    Mysterud, A., Côté, S. D., Hewitt, D. G. and Morellet, N. (2022).
+    Methodology matters when estimating deer abundance: a global
+    systematic review and recommendations for improvements. *Journal of
+    Wildlife Management*. <https://doi.org/10.1002/jwmg.22207>
 -   **Bengsen, A. J.**, Hampton, J. O., Comte, S., Freney, S. and
     Forsyth, D. M. (2021). Evaluation of helicopter net-gunning to
     capture wild fallow deer (*Dama dama*). *Wildlife Research*,
