@@ -148,7 +148,7 @@
     Sydney.)
 -   Rymer, T., **Bengsen, A. J.**, Rowell, M. K., Hampton, J. O.,
     Burns, P. A., Penton, C., Waudby, H. P., Cox, T., Greenville, A. and
-    Alberthsen, C. (in press). Ungulates, lagomorphs and rodents. In
+    Alberthsen, C. (2022). Ungulates, lagomorphs and rodents. In
     ‘*Wildlife Research in Australia – A Practical Guide*.’ (Eds B.
     Smith, H. P. Waudby and J. O. Hampton). (CSIRO Publishing:
     Collingwood, Australia.)
@@ -156,16 +156,16 @@
     **Bengsen, A. J.**, Meek, P. D., Bower, D. S., Thompson, S.,
     Lumsden, L., Hampton, J. O., Death, C., Thompson, G., Finlayson, G.,
     Hamilton, D. G., Petit, S., Dunlop, J., Bentley, J., Vanderduys, E.,
-    Ballard, G. A. and Morrant, D. S. (in press). Wildlife capture
-    methods. In ‘*Wildlife Research in Australia – A Practical Guide*.’
-    (Eds B. Smith, H. P. Waudby and J. O. Hampton). (CSIRO Publishing:
+    Ballard, G. A. and Morrant, D. S. (2022). Wildlife capture methods.
+    In ‘*Wildlife Research in Australia – A Practical Guide*.’ (Eds B.
+    Smith, H. P. Waudby and J. O. Hampton). (CSIRO Publishing:
     Collingwood, Australia.)
 -   Waudby, H. P., Burns, P. A., Jensen, M. A., Hampton, J. O., Hunter,
     D., McKnight, D. T., Pestell, A. J. L., **Bengsen, A. J.**, Bower,
     D., Coulson, G., Heard, G., Laive, A. d., Jolly, C. J., Hale, S.,
     Fancourt, B. A., Kelleher, S. R., Petit, S., Behrendorff, L.,
-    Lumsden, L. and McGregor, M. (in press). Wildlife marking methods.
-    In ‘*Wildlife Research in Australia – A Practical Guide*.’ (Eds B.
+    Lumsden, L. and McGregor, M. (2022). Wildlife marking methods. In
+    ‘*Wildlife Research in Australia – A Practical Guide*.’ (Eds B.
     Smith, H. P. Waudby and J. O. Hampton). (CSIRO Publishing:
     Collingwood, Australia.)
 -   **Bengsen, A. J.**, West, P. and Krull, C. R. (2017) Feral pigs in
