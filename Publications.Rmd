@@ -10,7 +10,7 @@ output:
 
 ## Peer-reviewed publications  
   
-  - **Bengsen, A. J.**, Forsyth, D. M., Pople, A., Brennan, M., Amos, M., Leeson, M., Cox, T. E., Gray, B., Orgill, O., Hampton, J. O., Crittle, T. and Haebich, K. (2022). Effectiveness and costs of helicopter-based shooting of deer. *Wildlife Research*.
+  - **Bengsen, A. J.**, Forsyth, D. M., Pople, A., Brennan, M., Amos, M., Leeson, M., Cox, T. E., Gray, B., Orgill, O., Hampton, J. O., Crittle, T. and Haebich, K. (2022). Effectiveness and costs of helicopter-based shooting of deer. *Wildlife Research*. https://www.publish.csiro.au/WR/WR21156
   - **Bengsen, A. J.**, Forsyth, D. M., Amos, M., Ramsey, D. S. L., Brennan, M., Pople, A. R., Comte, S. and Crittle, T. (2022). Estimating deer density and abundance using spatial mark-resight models with camera trap data. *Journal of Mammalogy* 103, 711-722. https://doi.org/10.1093/jmammal/gyac016
   - Forsyth, D. M., Comte, S., Davis, N. E., **Bengsen, A. J.**, Mysterud, A., Côté, S. D., Hewitt, D. G. and Morellet, N. (2022). Methodology matters when estimating deer abundance: a global systematic review and recommendations for improvements. *Journal of Wildlife Management*. https://doi.org/10.1002/jwmg.22207
   - **Bengsen, A. J.**, Hampton, J. O., Comte, S., Freney, S. and Forsyth, D. M. (2021). Evaluation of helicopter net-gunning to capture wild fallow deer (*Dama dama*). *Wildlife Research*, 48:722-729. https://doi.org/10.1071/WR21007

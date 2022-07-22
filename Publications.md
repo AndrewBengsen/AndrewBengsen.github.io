@@ -6,10 +6,11 @@
     M., Leeson, M., Cox, T. E., Gray, B., Orgill, O., Hampton, J. O.,
     Crittle, T. and Haebich, K. (2022). Effectiveness and costs of
     helicopter-based shooting of deer. *Wildlife Research*.
+    <https://www.publish.csiro.au/WR/WR21156>
 -   **Bengsen, A. J.**, Forsyth, D. M., Amos, M., Ramsey, D. S. L.,
     Brennan, M., Pople, A. R., Comte, S. and Crittle, T. (2022).
     Estimating deer density and abundance using spatial mark-resight
-    models with camera trap data. *Journal of Mammalogy*, 103, 711-722.
+    models with camera trap data. *Journal of Mammalogy* 103, 711-722.
     <https://doi.org/10.1093/jmammal/gyac016>
 -   Forsyth, D. M., Comte, S., Davis, N. E., **Bengsen, A. J.**,
     Mysterud, A., Côté, S. D., Hewitt, D. G. and Morellet, N. (2022).
