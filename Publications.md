@@ -4,12 +4,12 @@
 
 -   **Bengsen, A. J.**, Forsyth, D. M., Pople, A., Brennan, M., Amos,
     M., Leeson, M., Cox, T. E., Gray, B., Orgill, O., Hampton, J. O.,
-    Crittle, T. and Haebich, K. (online early). Effectiveness and costs
-    of helicopter-based shooting of deer. *Wildlife Research*.
+    Crittle, T. and Haebich, K. (2022). Effectiveness and costs of
+    helicopter-based shooting of deer. *Wildlife Research*.
 -   **Bengsen, A. J.**, Forsyth, D. M., Amos, M., Ramsey, D. S. L.,
     Brennan, M., Pople, A. R., Comte, S. and Crittle, T. (2022).
     Estimating deer density and abundance using spatial mark-resight
-    models with camera trap data. *Journal of Mammalogy*.
+    models with camera trap data. *Journal of Mammalogy*, 103, 711-722.
     <https://doi.org/10.1093/jmammal/gyac016>
 -   Forsyth, D. M., Comte, S., Davis, N. E., **Bengsen, A. J.**,
     Mysterud, A., Côté, S. D., Hewitt, D. G. and Morellet, N. (2022).
@@ -23,7 +23,7 @@
 -   Hampton, J. O., **Bengsen, A. J.**, Pople, A., Brennan, M.,
     Leeson, M. and Forsyth, D. M. (2021). Animal welfare outcomes of
     helicopter-based shooting of deer in Australia. *Wildlife Research*,
-    online early. <https://doi.org/10.1071/WR21069>
+    49, 264-273. <https://doi.org/10.1071/WR21069>
 -   Hampton, J. O., Eccles, G., Hunt, R., Parker, S., Hart, Q.,
     **Bengsen, A. J.**, Perry, A. L., Miller, C., Joslyn, S. J.,
     Stokke, S. and Arnemo, J. M. (2021). A comparison of fragmenting
@@ -38,7 +38,7 @@
 -   **Bengsen, A. J.**, Forsyth, D. M., Harris, S., Latham, A. D. M.,
     McLeod, S. R. and Pople, A. (2020) A systematic review of
     ground-based shooting to control overabundant mammal populations.
-    *Wildlife Research*. <https://doi.org/10.1071/WR19129>
+    *Wildlife Research* 47, 197-207. <https://doi.org/10.1071/WR19129>
 -   Thompson, G. G., Thompson, S. A. and **Bengsen, A. J.** (2019) The
     value of camera traps in monitoring a feral cat and fox reduction
     program. *Wildlife Research* 46(7), 599-609.
