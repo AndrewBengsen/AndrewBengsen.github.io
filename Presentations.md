@@ -2,10 +2,24 @@
 
 ## Recent presentations
 
+-   Bengsen, A. J. (2022) [Spatial Behaviour of Fallow Deer in
+    NSW](Media/BENGSEN_2022_deer-collaring_deer-masterclass.pdf). NSW
+    DPI Deer Management Masterclass, Tamworth, August 2022.
+
+-   Bengsen, A. J. (2022) [Aerial Deer
+    Survey](Media/BENGSEN_2022_Aerial-survey_deer-masterclass.pdf). NSW
+    DPI Deer Management Masterclass, Tamworth, August 2022.
+
 -   Bengsen, A. J., Forsyth, D. M., Pople, A., Brennan, M., Amos, M.,
     Leeson, M., Cox, T., Gray, R., Orgill, O., Hampton, J. O., Crittle,
     T., Haebich, K. (2022) [Costs and Effectiveness of Aerial Shooting
-    Operations](Meida/BENGSEN_HunterLLS_aerial-shoot-deer_2022-05.pdf).
+    Operations](Media/BENGSEN_2022_aerial-shoot_deer-masterclass.pdf).
+    NSW DPI Deer Management Masterclass, Tamworth, August 2022.
+
+-   Bengsen, A. J., Forsyth, D. M., Pople, A., Brennan, M., Amos, M.,
+    Leeson, M., Cox, T., Gray, R., Orgill, O., Hampton, J. O., Crittle,
+    T., Haebich, K. (2022) [Costs and Effectiveness of Aerial Shooting
+    Operations](Media/BENGSEN_HunterLLS_aerial-shoot-deer_2022-05.pdf).
     Presentation to Hunter Local Land Services, May 2022.
 
 -   Bengsen, A. J., Forsyth, D. M., Pople, A., Brennan, M., Amos, M.,
