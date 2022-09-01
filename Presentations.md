@@ -2,6 +2,11 @@
 
 ## Recent presentations
 
+-   Bengsen, A. J. (2022) [A Series of Porcine-ite
+    Events](https://www.slideshare.net/AndrewBengsen/balanced-researcher-program-presentation-a-bengsenpptx).
+    Centre for Invasive Species Solutions Balanced Researcher / Balanced
+    Scientist Program event, Canberra, September 2022.
+
 -   Bengsen, A. J. (2022) [Spatial Behaviour of Fallow Deer in
     NSW](Media/BENGSEN_2022_deer-collaring_deer-masterclass.pdf). NSW
     DPI Deer Management Masterclass, Tamworth, August 2022.
@@ -26,8 +31,8 @@
     Leeson, M., Cox, T., Gray, R., Orgill, O., Hampton, J. O., Crittle,
     T., Haebich, K. (2021) [Functional Response and the Effort-Outcomes
     Relationship for Aerial Shooting of
-    Deer](Media/BENGSEN_AWMS_2021_Aerial_shoot_deer.pdf). Australasian
-    Wildlife Management Society Conference, online.
+    Deer](https://www.slideshare.net/AndrewBengsen/aerialshootdeerawms2021pptx).
+    Australasian Wildlife Management Society Conference, online.
 
 -   Bengsen, A. J. 2021 [Practicalities of camera trapping to detect and
     count feral
