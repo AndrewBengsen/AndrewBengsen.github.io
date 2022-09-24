@@ -1,0 +1,16 @@
+---
+title: "Resources"
+author: "Andrew Bengsen"
+date: "25/09/2022"
+output: 
+  md_document:
+    variant: markdown_github
+---
+
+[back](https://andrewbengsen.github.io/)
+
+## Resources
+  
+  - [Example aerial survey plan](Resources/LP survey plan 2020-02.pdf)
+  - [Gwydir feral pig spatial mark-resight model](Resources/Attachment1_Gwydir_SMRtel_period1_2019.html)
+  
