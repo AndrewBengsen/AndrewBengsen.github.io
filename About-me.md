@@ -38,3 +38,4 @@ beliefs updated.
 [MY PUBLICATIONS](https://andrewbengsen.github.io/Publications.html)
 [RECENT
 PRESENTATIONS](https://andrewbengsen.github.io/Presentations.html)
+[RESOURCES](https://andrewbengsen.github.io/Resources.html)
