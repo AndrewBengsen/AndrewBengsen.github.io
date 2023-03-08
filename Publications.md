@@ -15,12 +15,12 @@
     Toop, S. D., Davies, C., and Forsyth, D. M. (online early)
     Characterising a unique recreational hunting method: hound hunting
     of sambar deer (*Cervus unicolor*) in Victoria, Australia. *Wildlife
-    Research*. <https://doi.org/10.1071/WR22117> -Hampton, J. O.,
-    Bengsen, A. J., Flesch, J. S., Toop, S.D., Davies, C., Forsyth, D.
-    M., Kanstrup, N., Stokke, S., and Arnemo, J. M. (online early) A
-    comparison of lead-based and lead-free bullets for shooting sambar
-    deer (*Cervus unicolor*) in Australia. *Wildlife Research*.
-    <https://doi.org/10.1071/WR22099>
+    Research*. <https://doi.org/10.1071/WR22117>
+-   Hampton, J. O., Bengsen, A. J., Flesch, J. S., Toop, S.D., Davies,
+    C., Forsyth, D. M., Kanstrup, N., Stokke, S., and Arnemo, J. M.
+    (online early) A comparison of lead-based and lead-free bullets for
+    shooting sambar deer (*Cervus unicolor*) in Australia. *Wildlife
+    Research*. <https://doi.org/10.1071/WR22099>
 -   Comte, S., Thomas, E., Bengsen, A. J., Bennett, A., Davis, N. E.,
     Freney, S., Jackson, S. M., White, M., Forsyth, D. M. and Brown, D.
     (online early). Seasonal and daily activity of non-native sambar
