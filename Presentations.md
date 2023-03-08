@@ -2,6 +2,10 @@
 
 ## Recent presentations
 
+-   Bengsen, A. J. (2023) [Wildlife Disease Surveillance and
+    Modelling](Media/BENGSEN_ISB_seminar_series_disease_project_outline_2023-03).
+    NSW DPI Invasive Species Biosecurity seminar series, March 2023.
+
 -   Bengsen, A. J. (2022) [A Series of Porcine-ite
     Events](https://www.slideshare.net/AndrewBengsen/balanced-researcher-program-presentation-a-bengsenpptx).
     Centre for Invasive Species Solutions Balanced Researcher / Balanced
