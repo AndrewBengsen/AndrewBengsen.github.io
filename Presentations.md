@@ -2,6 +2,11 @@
 
 ## Recent presentations
 
+-   Bengsen, A. J., Silva, F., Parker, L. (2023) [Feral Pig Disease
+    Surveillance in
+    NSW](https://www.slideshare.net/AndrewBengsen/aust-feral-pig-conference-2023-bengsen-disease-surveillance-in-nsw-finalpptx).
+    National Feral Pig Conference, Cairns, June 2023.
+
 -   Bengsen, A. J. (2023) [Wildlife Disease Surveillance and
     Modelling](Media/BENGSEN_ISB_seminar_series_disease_project_outline_2023-03.pdf).
     NSW DPI Invasive Species Biosecurity seminar series, March 2023.
